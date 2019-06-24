@@ -4,3 +4,6 @@ git pull will allow us to get remote changes in our FILE SYSTEM;
 
 THIS IS A NEW VERSION OF THIS LINE
 and another
+
+
+THIS IS A NEW CHANGE IN MASTER, we want to create some conflict.
