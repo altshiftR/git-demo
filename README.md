@@ -31,3 +31,4 @@ const foo = () => {alert('foo');}
 ``` 
 
 ##### some more content
+we are now ignoring .js files
