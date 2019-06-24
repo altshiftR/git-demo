@@ -2,5 +2,5 @@ this is is a simulation of a remote change done by a colleague.
 git pull will allow us to get remote changes in our FILE SYSTEM;
 
 
-adding a new line here
+THIS IS A NEW VERSION OF THIS LINE
 and another
