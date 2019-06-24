@@ -1,9 +1,13 @@
 this is is a simulation of a remote change done by a colleague.
+git pull will allow us to get REMOTE changes  our FILE SYSTEM;
 git pull will allow us to get remote changes in our FILE SYSTEM;
 
 
-THIS IS A NEW VERSION OF THIS LINE
-and another
+
+THIS IS the latest VERSION OF THIS LINE
+and another and another
 
 
-THIS IS A NEW CHANGE IN MASTER, we want to create some conflict.
+
+some new content to be added in our new branch
+
